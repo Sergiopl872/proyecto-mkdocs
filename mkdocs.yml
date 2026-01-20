@@ -1,0 +1,7 @@
+site_name: Proyecto de Sergio Perez Lucas
+site_url: https://Sergiopl872.github.io/proyecto-mkdocs/
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md 
