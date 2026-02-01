@@ -1,17 +1,15 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+¡Hola! Soy Joaquin Martinez, profesor de la asignatura de "Entornos de desarrollo" en el IES Los Albares.
+En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+####### ¿Qué vas a encontrar aquí?
 
-## Project layout
+    Un resumen de quién soy.
+    Una lista de tecnologías que estoy aprendiendo.
+    Algunos de los proyectos que estoy desarrollando.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Puedes navegar usando el menú superior para ver el resto de secciones.
+
+
+
