@@ -4,7 +4,7 @@ theme:
   name: material
 
 nav:
-  - Inicio: /docs/inicio.md
-  - Formacion: /docs/Formacion y experiencia.md
-  - Proyectos: /docs/Proyectos/
-  - Contacto: /docs/Contacto.md
+  - Inicio: inicio.md
+  - Formacion: Formacion y experiencia.md
+  - Proyectos: Proyectos
+  - Contacto: Contacto.md
