@@ -21,3 +21,18 @@ Pequeño juego de cartas para practicar DOM y eventos en JavaScript.
 
     Tecnologías: HTML, CSS, JavaScript.
     Estado: En desarrollo.
+
+## Tabla en Markdown:
+| Lenguaje | Uso principal        | Nivel |
+|----------|----------------------|-------|
+| Python   | Ciencia de datos     | Fácil |
+| Java     | Aplicaciones empres. | Medio |
+| C++      | Sistemas / juegos    | Difícil |
+
+
+## Ejemplo de bloque de codigo:
+A continuacion se muestra un pequeño bloque de codigo:
+
+```python
+print("Hola, mundo")
+
