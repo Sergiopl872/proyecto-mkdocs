@@ -1,10 +1,10 @@
 site_name: Proyecto de Sergio Perez Lucas
 site_url: https://Sergiopl872.github.io/proyecto-mkdocs/
 theme:
-  name: mkdocs
+  name: material
 
 nav:
-  - Inicio: inicio.md
-  - Formacion: Formacion y experiencia.md
-  - Proyectos: Proyectos
-  - Contacto: Contacto.md
+  - Inicio: /docs/inicio.md
+  - Formacion: /docs/Formacion y experiencia.md
+  - Proyectos: /docs/Proyectos/
+  - Contacto: /docs/Contacto.md
