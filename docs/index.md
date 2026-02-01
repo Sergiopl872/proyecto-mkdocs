@@ -1,6 +1,6 @@
 # Inicio
 
-¡Hola! Soy Joaquin Martinez, profesor de la asignatura de "Entornos de desarrollo" en el IES Los Albares.
+¡Hola! Soy Sergio Pérez, alumno de la asignatura de "Entornos de desarrollo" en el IES Los Albares.
 En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.
 
 ###### ¿Qué vas a encontrar aquí?
