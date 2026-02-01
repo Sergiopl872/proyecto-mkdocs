@@ -4,4 +4,4 @@ theme:
   name: material
 
 nav:
-  - Inicio: index.md 
+  - Inicio: index.md
