@@ -1,9 +1,9 @@
-
+# Inicio
 
 ¡Hola! Soy Joaquin Martinez, profesor de la asignatura de "Entornos de desarrollo" en el IES Los Albares.
 En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.
 
-####### ¿Qué vas a encontrar aquí?
+###### ¿Qué vas a encontrar aquí?
 
     Un resumen de quién soy.
     Una lista de tecnologías que estoy aprendiendo.
